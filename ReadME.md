@@ -8,9 +8,9 @@ Presentation Link : https://docs.google.com/presentation/d/1e4THowfDgD55vh69wYXX
 
 ## Team Members
 
-- Yash Bhaskar
-- Sankalp Bahad
 - Utsav Shekhar
+- Sankalp Bahad
+- Yash Bhaskar
 
 ## Course
 
